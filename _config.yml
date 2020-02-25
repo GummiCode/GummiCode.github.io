@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 
-baseurl: /gummicodeblog # the subpath of your site, e.g. /blog
+baseurl: /gummicode # the subpath of your site, e.g. /blog
 url: gummicode.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gummicode
 github_username:  gummicode
